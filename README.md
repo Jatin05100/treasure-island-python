@@ -1,11 +1,18 @@
-# Treasure Island Game (Python)
+# 🏝️ Treasure Island - Python Adventure Game
 
-This is a text-based adventure game built using Python.
+A text-based adventure game built using Python as part of the 100 Days of Code Python Bootcamp.
 
-## Features
-- Interactive story game
-- Uses conditional statements
-- Beginner Python project
+## 🎮 Play the Game
+Run the game online:
+https://replit.com/@rathorejatin501/treasure-island-python
 
-## Course
-Created while learning from the 100 Days of Code Python Bootcamp.
+## 💻 Technologies Used
+- Python
+- Conditional Statements
+- User Input
+- Logic Building
+
+## 📚 What I Learned
+- Using `if/elif/else`
+- Handling user input
+- Building simple interactive games
